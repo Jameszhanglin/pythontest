@@ -30,3 +30,6 @@ def quicksort(array):
 
 
 print(quicksort([10, 5, 2, 3]))
+
+
+
